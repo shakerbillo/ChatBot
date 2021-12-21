@@ -3,8 +3,8 @@ public class ChatBot{
     public static void main(String [] args){
     Scanner scan = new Scanner(System.in);
 
-        System.out.println("\nI am Shakerbot, Are you ready to aswer some questions?");
-        System.out.println("Whaat is your name?");
+        System.out.println("\nI am Shakerbot, Are you ready to answer some questions?");
+        System.out.println("What is your name?");
        
 
         String name = scan.nextLine() ;
